@@ -1,0 +1,9 @@
+export { AppointmentModule } from './appointment.module';
+export { HospitalModule } from './hospital.module';
+export { MapModule } from './map.module';
+export { QueueModule } from './queue.module';
+export { RegistrationModule } from './registration.module';
+export { StaffModule } from './staff.module';
+export { TimelistModule } from './timelist.module'
+export { UserAppointmentModule } from './userAppointment.module';
+export { UsersModule } from './users.module';

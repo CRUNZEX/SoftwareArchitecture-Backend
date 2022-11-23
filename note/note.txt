@@ -1,0 +1,8 @@
+มีใบนัด
+appointment
+
+ไม่มีใบนัด (ผู้ป่วยเก่า)
+nonAppointmentOld
+
+ไม่มีใบนัด (ผู้ป่วยใหม่)
+nonAppointmentNew
