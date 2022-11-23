@@ -2,8 +2,8 @@
   "name": "softarch-backend",
   "version": "1.0.0",
   "description": "",
-  "author": "",
-  "private": true,
+  "author": ["CRUNZEX", "tyNAKAMOL"],
+  "private": false,
   "license": "UNLICENSED",
   "scripts": {
     "prebuild": "rimraf dist",
